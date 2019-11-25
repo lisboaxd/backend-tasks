@@ -1,0 +1,8 @@
+{
+  "name": "backend-tasks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lisboaxd/backend-tasks.git",
+  "author": "Guilherme Albert <guilhermealbert14@gmail.com>",
+  "license": "MIT"
+}
